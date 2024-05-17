@@ -1,0 +1,10 @@
+C:\Users\musta\source\repos\YSAP\bin\Debug\YSAP.exe.config
+C:\Users\musta\source\repos\YSAP\bin\Debug\YSAP.exe
+C:\Users\musta\source\repos\YSAP\bin\Debug\YSAP.pdb
+C:\Users\musta\source\repos\YSAP\obj\Debug\YSAP.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\YSAP\obj\Debug\YSAP.Form1.resources
+C:\Users\musta\source\repos\YSAP\obj\Debug\YSAP.Properties.Resources.resources
+C:\Users\musta\source\repos\YSAP\obj\Debug\YSAP.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\YSAP\obj\Debug\YSAP.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\YSAP\obj\Debug\YSAP.exe
+C:\Users\musta\source\repos\YSAP\obj\Debug\YSAP.pdb
